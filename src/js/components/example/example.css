@@ -1,0 +1,8 @@
+example {
+	display: inline-block;
+	color: white;
+	background-color: darkblue;
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 5px;
+}
