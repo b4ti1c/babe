@@ -21,9 +21,7 @@ If you like grunt watchers, Babe provides one.
 
 ```grunt build watch```
 
-or simply
-
-```grunt```
+The default `grunt` command also performs build & watch.
 
 Grunt creates temporary files while transpiling and browserifying. If you ever need those files, type:
 
